@@ -1,0 +1,14 @@
+.DS_Store
+
+# KiCad
+.history/
+*-backups/
+*.kicad_prl
+fp-info-cache
+*.lck
+_autosave-*
+
+# PlatformIO
+.pio/
+.vscode/
+compile_commands.json
